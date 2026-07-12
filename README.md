@@ -14,27 +14,17 @@
 
 ### 🚀 About Me
 
+- 🔧 **Android Kernel Developer**
+- 💻 Working on **Melt Kernel** for Xiaomi/Redmi devices
+- 📱 Currently using **Redmi Note 12 Turbo / POCO F5 (marble)**
+- 🔐 Exploring **KernelSU** & **SUSFS** for root solutions
+- 🐧 Passionate about **Linux Kernel** & **Android Custom ROMs**
+- ⚡ Current status: Compiling kernels & exploring GKI
+
 ```python
 class ZMR1742:
     def __init__(self):
-        self.name = "ZMR"
-        self.role = "Android Kernel Developer"
-        self.interests = [
-            "Android Kernel Development",
-            "KernelSU & Magisk",
-            "Custom ROMs",
-            "Xiaomi/Redmi Devices",
-            "Linux Kernel"
-        ]
-        self.devices = ["Redmi Note 12 Turbo / POCO F5 (marble)"]
-        self.current_projects = [
-            "Melt Kernel for marble",
-            "KernelSU + SUSFS integration"
-        ]
         self.motto = "Hack the kernel, own the device!"
-    
-    def current_status(self):
-        return "🔧 Compiling kernels & exploring GKI"
 ```
 
 ---
