@@ -39,9 +39,13 @@
 
 <div align="center">
 
-[![Melt Kernel](https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=android_kernel_xiaomi_marble&theme=tokyonight&hide_border=true)](https://github.com/zmr1742/android_kernel_xiaomi_marble)
+<a href="https://github.com/zmr1742/android_kernel_xiaomi_marble">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=android_kernel_xiaomi_marble&theme=tokyonight&hide_border=true" />
+</a>
 
-[![KernelSU SUSFS](https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=GKI_KernelSU_SUSFS&theme=tokyonight&hide_border=true)](https://github.com/zmr1742/GKI_KernelSU_SUSFS)
+<a href="https://github.com/zmr1742/GKI_KernelSU_SUSFS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=GKI_KernelSU_SUSFS&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -68,7 +72,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zmr1742&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=zmr1742&theme=flat&no-frame=true&column=7" />
 
 </div>
 
