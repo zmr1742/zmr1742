@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm ZMR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=220&section=header&text=Hi%20👋%20I'm%20ZMR&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Android%20Kernel%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Android+Kernel+Developer;Building+Custom+Kernels;Always+Learning)](https://git.io/typing-svg)
 
