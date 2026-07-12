@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=220&section=header&text=Hi%20👋%20I'm%20ZMR&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Android%20Enthusiast%20|%20Kernel%20Hacker%20|%20Open%20Source%20Lover&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+# Hi 👋 I'm ZMR
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Android+Kernel+Developer;Building+Custom+ROMs+%26+Kernels;Always+Exploring+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Android+Kernel+Developer;Building+Custom+Kernels;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +30,6 @@
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -79,25 +74,9 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/zmr1742/zmr1742/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ### 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zmr1742&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🎯 Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
 
 ---
 
@@ -105,7 +84,6 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zmr1742)
 
 </div>
@@ -122,19 +100,7 @@
 
 ---
 
-### ⚡ Current Status
-
 <div align="center">
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=zmr1742&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=100&section=footer"/>
 
 **Thanks for visiting! ⭐ Feel free to check out my kernel projects!**
 
