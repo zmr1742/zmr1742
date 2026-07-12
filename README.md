@@ -39,13 +39,10 @@
 
 <div align="center">
 
-<a href="https://github.com/zmr1742/android_kernel_xiaomi_marble">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=android_kernel_xiaomi_marble&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/zmr1742/GKI_KernelSU_SUSFS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zmr1742&repo=GKI_KernelSU_SUSFS&theme=tokyonight&hide_border=true" />
-</a>
+| 项目 | 描述 | 语言 |
+|------|------|------|
+| [android_kernel_xiaomi_marble](https://github.com/zmr1742/android_kernel_xiaomi_marble) | Melt Kernel for Redmi Note 12 Turbo / POCO F5 | C |
+| [GKI_KernelSU_SUSFS](https://github.com/zmr1742/GKI_KernelSU_SUSFS) | KernelSU with SUSFS for GKI kernel | C |
 
 </div>
 
@@ -67,14 +64,6 @@
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=zmr1742&theme=flat&no-frame=true&column=7" />
-
-</div>
 
 ---
 
